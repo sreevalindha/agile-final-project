@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 As a user 
-I need the ability to create a product in the catalog 
-so that I add products in the catalog.
+Need the ability to retrieve a product from the catalog
+so that I can retrieve products.
